@@ -14,3 +14,6 @@ git push -u origin main
 **Webpack setup
 npm init -y
 npm i -D webpack webpack-cli webpack-dev-server
+
+adding babel
+
