@@ -4,4 +4,11 @@ const elevenStripRecipe={
     refinedMoonstone:3
 }
 
+const TweleveStrip={
+    ...elevenStripRecipe,
+    rawLeather:9
+
+}
+
 console.log(elevenStripRecipe);
+console.log(TweleveStrip);
